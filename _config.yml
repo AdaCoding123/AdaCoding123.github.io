@@ -7,8 +7,8 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
-title                    : "Lee's Personal Homepage"
+locale                   : "ch-CN"
+title                    : "Lee's Homepage"
 title_separator          : "-"
 name                     : &name ""
 description              : &description "计算机知识分享"
