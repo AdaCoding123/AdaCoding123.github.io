@@ -30,29 +30,29 @@ author:
   uri              : # URL
   email            : "18811397756@163.com" 
   github           : "AdaCoding123"
-  csdn             : "https://blog.csdn.net/weixin_41171614?type=blog"
-  zhihu            : "https://www.zhihu.com/people/naak-8"
+  csdn             : "weixin_41171614"
+  zhihu            : "naak-84"
 
-  # Academic websites
-  # arxiv            : # URL - Update with the correct link to your profile
+# Academic websites
+# arxiv            : # URL - Update with the correct link to your profile
 #  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
 #  impactstory      : # URL
 #  orcid            : "http://orcid.org/yourorcidurl"
-  # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+# pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
 #  researchgate     : # URL
 
-  # Repositories and software development
+# Repositories and software development
 #  bitbucket        : # Username - Update with your username on the site
 #  codepen          : # Username
 #  dribbble         : # Username
-# github           : "AdaCoding123"
-# CSDN             : "AdaCoding"
+#  github           : "AdaCoding123"
+#  CSDN             : "AdaCoding"
 #  kaggle           : # Username  
 #  stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
-# Social media
-# bluesky          : "bsky.app" # Replace this with you Bluesky username
-# facebook         : # Username
+#  Social media
+#  bluesky          : "bsky.app" # Replace this with you Bluesky username
+#  facebook         : # Username
 #  flickr           : # Username
 #  foursquare       : # Username
 #  goodreads        : # Username
@@ -70,11 +70,11 @@ author:
 #  tumblr           : # Username
 #  twitter          : "UniofOxford"  # Replace this with your X / Twitter handle
 #  vine             : # Username
- weibo            : "https://blog.csdn.net/weixin_41171614?type=blog"
+#  weibo            : "https://blog.csdn.net/weixin_41171614?type=blog"
 #  wikipedia        : # Username
 #  xing             : # Username
 #  youtube          : # Username
-  zhihu            : # URL
+# zhihu            : # URL
 
 
 # Site Settings
