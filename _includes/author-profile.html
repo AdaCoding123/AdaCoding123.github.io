@@ -24,6 +24,13 @@
     <button class="btn btn--inverse">Follow</button>
     <ul class="author__urls social-icons">
       <!-- Font Awesome icons / Biographic information  -->
+      {% if author.csdn %}
+        <li class="author__desktop"><i class="fa-solid fa-hippo icon-pad-right" aria-hidden="true"></i>{{ author.location }}</li>
+      {% endif %}
+      {% if author.zhihu %}
+        <li class="author__desktop"><i class="fa-solid fa-zhihu icon-pad-right" aria-hidden="true"></i>{{ author.location }}</li>
+      {% endif %}
+
       {% if author.location %}
         <li class="author__desktop"><i class="fa-solid fa-location-dot icon-pad-right" aria-hidden="true"></i>{{ author.location }}</li>
       {% endif %}
@@ -97,6 +104,7 @@
         <li><a href="https://plus.google.com/+{{ author.google_plus }}"><i class="fab fa-fw fa-google-plus-g icon-pad-right" aria-hidden="true"></i>Google+</a></li>
       {% endif %}            
       {% if author.keybase %}
+      
         <li><a href="https://keybase.io/{{ author.keybase }}"><i class="fas fa-fw fa-key icon-pad-right" aria-hidden="true"></i>Keybase</a></li>
       {% endif %}
       {% if author.instagram %}
