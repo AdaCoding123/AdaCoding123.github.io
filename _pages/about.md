@@ -7,6 +7,9 @@ redirect_from:
   - /about.html
 ---
 
+A data-driven personal website
+======
+
 这是我的个人简介
 
 A data-driven personal website
