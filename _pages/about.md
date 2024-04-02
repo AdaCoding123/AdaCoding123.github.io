@@ -20,6 +20,7 @@ Please find more information from his
 - dblp publication list
 - IEEE publication list
 - Web of Science profile
+
 # Highlights
 The dataset and code of our paper entitled “Towards Scalable and Channel-Robust Radio Frequency Fingerprint Identification for LoRa’’ have been made available. Download from: Dataset and code at github.
 
@@ -33,12 +34,14 @@ Please visit News for all the news.
 - Device authentication
 - Radio frequency fingerprint identification
 - Device free wireless sensing
+
 # Research Expertise
 - Wireless communication techniques, such as OFDM, spread spectrum, etc
 - Wireless communication protocols, such as IEEE 802.11, ZigBee, LoRa/LoRaWAN, Bluetooth, etc, in particular physical and MAC layers
 - Wireless channel modelling
 - Software defined radios including USRP, Zedboard + FMCOMMS2, and WARP
 - Machine learning and deep learning applications in the wireless communications, sensing and security
+
 # Research Demonstration
 We are always keen to apply our knowledge to practical applications. Hence we have created several demonstration videos to present our applied research.
 
@@ -47,6 +50,7 @@ We are always keen to apply our knowledge to practical applications. Hence we ha
 - Heartbeat Key Generation Demonstration Using PPG Sensors
 - Deep Learning-Powered Radio Frequency Fingerprint Identification for LoRa
 - LoRaWAN Demonstration using Pycom FiPy
+
 # Contact
 - Email: junqing.zhang at liverpool.ac.uk
 - Web: https://www.liverpool.ac.uk/electrical-engineering-and-electronics/staff/junqing-zhang/ 
